@@ -1,0 +1,5 @@
+export const ACTIONS = {
+    GET_DATA: "GET_DATA",
+    SEARCH: "SEARCH",
+    FILTER_BY_CATEGORY: "FILTER_BY_CATEGORY",
+  };
